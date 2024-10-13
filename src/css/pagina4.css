@@ -1,0 +1,22 @@
+.phooto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 50px;
+}
+
+.phooto p {
+    color: white;
+    margin-top: 90px;
+    width: 50%;
+    font-size: 12px;
+    font-family: monospace;
+    border-left: 3px solid white;
+    padding-left: 30px;
+}
+
+.phooto img{
+    width: 10%;
+    border-radius: 100px;
+}

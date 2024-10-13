@@ -1,0 +1,33 @@
+.cabesalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 50px;
+}
+
+.cabesalho h1{
+    color: white;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabesalho img{
+    width: 10%;
+}
+
+.conteudo3 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+p{
+    border-left: 20px;
+    width: 50%;
+    font-size: 12px;
+    font-family: monospace;
+    padding-left: 30px;
+    border-left: 3px solid white;
+}
